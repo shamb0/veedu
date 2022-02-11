@@ -251,7 +251,7 @@
 
 ## Room Internals
 
-## Model-1
+### Model-1
 
 ![](https://i.imgur.com/6BplOHl.png)
 
@@ -259,7 +259,7 @@
 
 ![](https://i.imgur.com/hT3loh1.png)
 
-## Modle-2
+### Modle-2
 
 ![](https://i.imgur.com/TPi3Q2r.png)
 
@@ -267,7 +267,7 @@
 
 ![](https://i.imgur.com/XTK6bEl.png)
 
-## Model-3
+### Model-3
 
 ![](https://i.imgur.com/Tn2ftuv.png)
 
@@ -275,7 +275,7 @@
 
 ![](https://i.imgur.com/DTfEqkF.png)
 
-## Model-4
+### Model-4
 
 ![](https://i.imgur.com/3vqi2ny.png)
 
@@ -286,5 +286,11 @@
 ### Model-5
 
 ![](https://i.imgur.com/6bjRVL1.png)
+
+### Model-6
+
+![](https://i.imgur.com/R0GlBqA.png)
+
+
 
 
