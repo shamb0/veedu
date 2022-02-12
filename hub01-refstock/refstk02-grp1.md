@@ -186,6 +186,13 @@
 
 ![](https://i.imgur.com/H9fmNqv.png)
 
+### Model-18
+
+![](https://i.imgur.com/amldnAu.png)
+
+### Model-19
+
+![](https://i.imgur.com/ptrHw26.png)
 
 ## BackSide Court Yard
 
