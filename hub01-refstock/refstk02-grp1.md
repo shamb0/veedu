@@ -194,6 +194,14 @@
 
 ![](https://i.imgur.com/ptrHw26.png)
 
+### Model-20
+
+![](https://i.imgur.com/Vf2cZze.jpg)
+
+**HighLights**
+
+![](https://i.imgur.com/9tYR8hG.png)
+
 ## BackSide Court Yard
 
 ### Model-1
