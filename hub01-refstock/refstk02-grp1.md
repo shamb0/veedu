@@ -280,6 +280,10 @@
 
 ![](https://i.imgur.com/5rrpQHb.png)
 
+### Model-11
+
+![](https://i.imgur.com/uqyVTuT.png)
+
 ## Room Internals
 
 ### Model-1
