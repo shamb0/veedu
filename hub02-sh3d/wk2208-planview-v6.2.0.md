@@ -44,6 +44,8 @@
 
 ![](https://i.imgur.com/METrOC2.png)
 
+![](https://i.imgur.com/JANaV4U.png)
+
 ### Ground (Level-2)
 
 ![](https://i.imgur.com/EduQjxB.png)
