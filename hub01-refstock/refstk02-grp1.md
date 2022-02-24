@@ -210,6 +210,14 @@
 
 ![](https://i.imgur.com/DlEUQ3p.png)
 
+### Model-22
+
+![](https://i.imgur.com/QNzvv6h.png)
+
+**HighLights**
+
+![](https://i.imgur.com/WGSPyJr.png)
+
 ## BackSide Court Yard
 
 ### Model-1
