@@ -218,6 +218,10 @@
 
 ![](https://i.imgur.com/WGSPyJr.png)
 
+### Model-23
+
+![](https://i.imgur.com/P3fpoPz.png)
+
 ## BackSide Court Yard
 
 ### Model-1
