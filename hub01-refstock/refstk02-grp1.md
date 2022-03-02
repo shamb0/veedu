@@ -350,6 +350,8 @@
 
 ![](https://i.imgur.com/R0GlBqA.png)
 
+### Model-7
 
+![](https://i.imgur.com/5J3NvsD.jpg)
 
 
