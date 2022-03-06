@@ -71,6 +71,9 @@
 
 ![](https://i.imgur.com/VRfzSoU.png)
 
+### Model-10
+
+![](https://i.imgur.com/yGHVME9.png)
 
 ## Study Room
 
