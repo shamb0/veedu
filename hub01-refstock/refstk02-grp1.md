@@ -354,4 +354,12 @@
 
 ![](https://i.imgur.com/5J3NvsD.jpg)
 
+### Model-8
 
+![](https://i.imgur.com/yZF7tSc.png)
+
+![](https://i.imgur.com/kSYK11W.png)
+
+### Model-9
+
+![](https://i.imgur.com/vqhDMR6.png)
