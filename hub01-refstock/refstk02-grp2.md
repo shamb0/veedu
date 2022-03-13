@@ -91,6 +91,10 @@
 
 ![](https://i.imgur.com/XcAnrIC.jpg)
 
+### Model-15
+
+![](https://i.imgur.com/qcXm6H4.jpg)
+
 ## Study Room
 
 ## Model-1
