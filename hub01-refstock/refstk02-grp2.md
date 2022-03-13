@@ -87,6 +87,10 @@
 
 ![](https://i.imgur.com/UprtZkt.png)
 
+### Model-14
+
+![](https://i.imgur.com/XcAnrIC.jpg)
+
 ## Study Room
 
 ## Model-1
@@ -94,5 +98,6 @@
 ![](https://i.imgur.com/mnLYuDQ.png)
 
 **HighLights**
+
 
 
