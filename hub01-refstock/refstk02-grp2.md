@@ -99,6 +99,10 @@
 
 ![](https://i.imgur.com/FbY9nFm.jpg)
 
+### Model-17
+
+![](https://i.imgur.com/rk5wzWq.png)
+
 ## Study Room
 
 ## Model-1
