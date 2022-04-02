@@ -24,3 +24,8 @@
 ## Model-06
 
 ![](https://i.imgur.com/ZbUjCKk.png)
+
+## Model-07
+
+![](https://i.imgur.com/AwTRhJM.png)
+
